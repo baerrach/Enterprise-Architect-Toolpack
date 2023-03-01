@@ -17,6 +17,8 @@ The Enterprise Architect Toolpack contains the actual tools and add-ins for Spar
 - [EA Database Transformer](https://bellekens.com/ea-database-transformer/)
 - [EA Imvertor](https://bellekens.com/ea-imvertor/)
 
+##### Documentation:
+EA-Matic see [Enterprise-Architect-VBScript-Library Documentation](https://github.com/GeertBellekens/Enterprise-Architect-VBScript-Library/Documentation)
 
 ##### Dependencies:
 - [Enterprise Architect Add-in Framework](https://github.com/GeertBellekens/Enterprise-Architect-Add-in-Framework)
